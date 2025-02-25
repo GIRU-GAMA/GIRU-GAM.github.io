@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>ARMWRESTLING</title>
+</head>
+<center>
+<font size="8">ARMWRESTLING</font>
+</ center>
+<img src="A.jpg" alt="Imagen" usemap="#map" width="400">
+<map name="map">
+    <area shape="rect" coords="210, 0, 400, 160" alt="WAL"
+href="https://www.walunderground.com/WAL">
+<body style="background-color:#C0C0C0;">
+<center>En esta página web encontrarás información a cerca de la historia del armwrestling</ center>
+<center>A continuación una breve explicación de lo que es el deporte del ARMWRESTLING y en qué año se creo: </ center>
+<center>El Arm Wrestling o lucha de brazos, como se le conoce en Latinoamérica, también referido en algunos lugares como vencidas, pulsos o gallitos, es un deporte en el que dos competidores se enfrentan en una mesa para poner a prueba su fuerza<center>
+<center> A finales de los años 50 se formaron las primeras federaciones, y en 1962 en Petaluma, California se organizó el primer campeonato internacional. Para conmemorar este evento, se erigió una escultura en honor a los héroes vivos del deporte<center>
+<center>
+<img src="b.jpg" alt="Imagen centrada" width="240px" />
+</ center>
+
+
+
+
+
